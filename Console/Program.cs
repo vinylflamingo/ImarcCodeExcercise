@@ -13,7 +13,7 @@ namespace ImarcCodeExcercise
             List<Person> PersonList = new List<Person>(); 
 
             Console.WriteLine("Hello! Welcome to my solution to the coding challenge. Written on 4/5/2021.\n");
-            Console.Write("Program Starting");
+            Console.Write("Program Starting\n");
             
 
             // this loop allows you to continue adding persons to the list.
