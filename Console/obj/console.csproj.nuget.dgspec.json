@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\francisco.costoya\\Documents\\ImarcCodeExcercise\\console\\console.csproj": {}
+    "C:\\Users\\francisco.costoya\\Documents\\ImarcCodeExcercise\\Console\\console.csproj": {}
   },
   "projects": {
-    "C:\\Users\\francisco.costoya\\Documents\\ImarcCodeExcercise\\console\\console.csproj": {
+    "C:\\Users\\francisco.costoya\\Documents\\ImarcCodeExcercise\\Console\\console.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\francisco.costoya\\Documents\\ImarcCodeExcercise\\console\\console.csproj",
+        "projectUniqueName": "C:\\Users\\francisco.costoya\\Documents\\ImarcCodeExcercise\\Console\\console.csproj",
         "projectName": "console",
-        "projectPath": "C:\\Users\\francisco.costoya\\Documents\\ImarcCodeExcercise\\console\\console.csproj",
+        "projectPath": "C:\\Users\\francisco.costoya\\Documents\\ImarcCodeExcercise\\Console\\console.csproj",
         "packagesPath": "C:\\Users\\francisco.costoya\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\francisco.costoya\\Documents\\ImarcCodeExcercise\\console\\obj\\",
+        "outputPath": "C:\\Users\\francisco.costoya\\Documents\\ImarcCodeExcercise\\Console\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\francisco.costoya\\AppData\\Roaming\\NuGet\\NuGet.Config",

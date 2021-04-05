@@ -37,17 +37,17 @@ namespace ImarcCodeExcercise
                 }
             }
 
-            Console.Write("Average age of all entered persons = " + AverageAge(PersonList) + "\n");
+            Console.WriteLine("Average age of all entered persons = " + AverageAge(PersonList) + "\n");
             foreach (Person person in PersonList)
             {
                 Console.Write(person.FirstName + " " + person.LastName + " " + person.CurrentAge().ToString() + "\n");
             }
 
-            Console.WriteLine("Now exporting input data to JSON file. File will be saved in the same directory as the application. \n WARNING! Previous file will be overwritten if this application is ran twice.");
+            Console.WriteLine("Now exporting input data to JSON file. File will be saved in the same directory as the application. \nWARNING! Previous file will be overwritten if this application is ran twice.");
 
             ExportData(PersonList);
 
-            Console.WriteLine("Press any button to exit.");
+            Console.WriteLine("Press enter to exit.");
             Console.ReadLine();
             return;        
         }
