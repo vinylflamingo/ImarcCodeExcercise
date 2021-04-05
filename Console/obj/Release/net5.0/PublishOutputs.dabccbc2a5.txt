@@ -1,0 +1,5 @@
+C:\Users\francisco.costoya\Documents\ImarcCodeExcercise\console\publish\console.exe
+C:\Users\francisco.costoya\Documents\ImarcCodeExcercise\console\publish\console.dll
+C:\Users\francisco.costoya\Documents\ImarcCodeExcercise\console\publish\console.deps.json
+C:\Users\francisco.costoya\Documents\ImarcCodeExcercise\console\publish\console.runtimeconfig.json
+C:\Users\francisco.costoya\Documents\ImarcCodeExcercise\console\publish\console.pdb
